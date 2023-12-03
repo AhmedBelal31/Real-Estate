@@ -1,16 +1,33 @@
-# real_estate_app
+# Responsive Real Estate App
 
+
+## Mobile App , Website 
 A new Flutter project.
 
-## Getting Started
+# Snapshots 📱
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+|  Home Screen | Drawer Screen |
+|---------|---------|
+| ![App Screenshot 1](https://github.com/AhmedBelal31/Real-Estate/assets/131663660/f252d435-8e43-4e08-873c-ed7522148c55) | ![App Screenshot 2](https://github.com/AhmedBelal31/Real-Estate/assets/131663660/520460ba-be19-4807-92da-490045752a57) |
+
+
+| Home  Details   | 
+|---------|
+| ![App Screenshot 1](https://github.com/AhmedBelal31/Real-Estate/assets/131663660/e8970db3-da6f-4f50-a47e-19200c39566b) |
+
+
+
+
+
+
+
+
+# Website 
+
+*https://ahmedbelal31.github.io/Real-Estate-website-/
+
+![Screenshot 2023-12-03 221344](https://github.com/AhmedBelal31/Real-Estate/assets/131663660/a40df01b-c5e9-4e27-ae1d-dc53c46dcdb4)
+
